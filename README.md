@@ -1,9 +1,9 @@
 # Hi, I'm Pranjal
 ## Data Analyst
 
-Studying Masters of Science in Data Analytics at [Clark University](https://www.clarku.edu/)
+Studying Masters of Science in Data Analytics at [Clark University](https://www.clarku.edu/).
 
-Working as a Business Intelligence Analyst Intern [Bentley University](https://www.linkedin.com/feed/update/urn:li:activity:7157175848746237952/) Boston,MA
+Working as a Business Intelligence Analyst Intern [Bentley University](https://www.linkedin.com/feed/update/urn:li:activity:7157175848746237952/), Boston,MA.
 
 ### Don't just look at the Data. Play with it. It will surely tell you a Story! 📊
 
