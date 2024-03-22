@@ -1,4 +1,4 @@
-### Hi, I'm Pranjal
+# Hi, I'm Pranjal
 ## Data Analyst
 
 Studying Masters of Science in Data Analytics at [Clark University](https://www.clarku.edu/)
