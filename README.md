@@ -12,7 +12,7 @@ I am passionate about analysing data using Tableau/ Power BI. I am also skilled 
 I have worked as a Data Scientist at Infosys where I was part of research and development team.
 I have also worked as a Data analyst at Reliance Retail by utilizing data science solution for e-commerce business improvement.
 
-- 👯 I’m looking to collaborate on with Data Analysts who are cusrious about flearning from data
+- 👯 I’m looking to collaborate on with Data Analysts who are curious about learning from data
 - 💬 Ask me about Tableau/ Power BI/ Excel
 - ⚡ Fun fact: I love experimenting with fashion
 
